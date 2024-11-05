@@ -1,13 +1,2 @@
-### Experiment 1: Basic Test Signals
-### 1. **Step Signal:**
-   A **step signal** is a type of discontinuous signal that jumps from one value to another instantaneously. It is often used to model systems with sudden changes. In mathematical terms, it is represented by the Heaviside function \( u(t) \), 
-   where:
-   
-`u(t) = 1 for t >= 0, 0 for t < 0`
 
-   The step signal is widely used in control systems and circuit analysis, particularly to analyze the response of systems to sudden changes in input.
-
-### 2. **Impulse Signal:**
-   The **impulse signal** (also known as the Dirac delta function \( \delta(t) \)) is an idealized signal that has all its energy concentrated at a single point in time (at \( t = 0 \)). The function is zero everywhere except at \( t = 0 \), where it has an infinite value, but the total area under the curve is equal to 1. It is used to model systems with very short pulses of energy, such as switches or triggers in electronics.
-  
-`δ(t) = ∞ at t = 0, 0 for t ≠ 0`
+ 
