@@ -54,3 +54,7 @@ This theorem ensures that, given a sufficiently high sampling rate (at least twi
 
 #### 5. **Control Systems**
 * **Data Acquisition:** Control systems often require sampling of physical processes (like temperature, pressure, or position) to monitor and control them. The sampling rate must be fast enough to capture the relevant dynamics of the system.
+
+### **Observation**
+
+![image](https://github.com/user-attachments/assets/d56abaee-13b2-43fd-9ee1-b4d481aa8106)
