@@ -54,3 +54,9 @@
    - If alpha < 0, the signal decays exponentially.
 
    Exponential signals are used in modeling systems with natural growth or decay, such as charging and discharging in capacitors or population growth models.
+
+### **Observation**
+
+![image](https://github.com/user-attachments/assets/49525175-bd50-42ce-ad2a-60220ba343b6)
+
+
