@@ -57,3 +57,6 @@ if DFT{x[n]} = X[k],
 if DFT{x[n]} = X[k],
   then Σ (n=0 to N-1) |x[n]|^2 = (1/N) Σ (k=0 to N-1) |X[k]|^2
 ```
+
+###Observation
+![image](https://github.com/user-attachments/assets/12141931-03a7-485c-af6c-daf4b9d958cc)
