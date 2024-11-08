@@ -23,3 +23,6 @@ If we consider a linear convolution of two signals, `x[n]` and `h[n]`, and zero-
 
 * **DFT-Based Convolution:** The DFT can be used to efficiently compute circular convolution. By zero-padding the signals and using the DFT, we can effectively perform linear convolution using the frequency domain.
 * **Filter Design:** Circular convolution is often used in the design of finite impulse response (FIR) filters. By understanding the relationship between linear and circular convolution, we can design filters that meet specific requirements.
+
+### **Observation**
+![image](https://github.com/user-attachments/assets/f7a615b0-30e8-48d2-af69-2af7b294284f)
