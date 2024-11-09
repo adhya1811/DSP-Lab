@@ -6,16 +6,21 @@
    		
 **4.Circular Convolution**                                                                                                                             
    				
-**5.Linear Convolution using circular convolution and vice versa**	                                                                                                                                			
-**6.DFT and IDFT**		                                                                                                                             
+**5.Linear Convolution using circular convolution**
+
+**6.circular convolution using Linear Convolution**
+
+**7.DFT**
+
+**8.IDFT**
    		
-**7.Properties of DFT**	                                                                                                                             
+**9.Properties of DFT**	                                                                                                                             
    		
-**8.Overlap Add and Overlap Save Method**		                                                                                                                      
+**10.Overlap Add and Overlap Save Method**		                                                                                                                      
                                                                                                                                                                                                                                                                                                                         
-**9.Implementation of FIR Filter**	                                                                                                                             
+**11.Implementation of FIR Filter**	                                                                                                                             
    			
-**10.Familiarization of DSP Hardware**
+**12.Familiarization of DSP Hardware**
 
 **11.Generation of Sinewave using DSP KIT**
 
