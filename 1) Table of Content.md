@@ -22,6 +22,6 @@
    			
 **12.Familiarization of DSP Hardware**
 
-**11.Generation of Sinewave using DSP KIT**
+**13.Generation of Sinewave using DSP KIT**
 
-**12.Linear Convolution using DSP KIT**
+**14.Linear Convolution using DSP KIT**
